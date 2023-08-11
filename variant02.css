@@ -1,0 +1,46 @@
+body {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 50px 100px 10px 100px;
+}
+
+header p {
+  color: #adff98;
+  text-align: left;
+}
+h2 span {
+  background-color: #adff98;
+}
+section {
+  text-align: left;
+  margin: 0 150px 0 150px;
+  font-weight: bold;
+}
+h3 {
+  background-color: #adff98;
+  text-align: center;
+}
+button:first-of-type {
+  background-color: aqua;
+}
+button:last-child {
+  background-color: #adff98;
+}
+footer {
+  background-color: black;
+  padding: 50px 0;
+  margin: 20px auto;
+}
+footer p {
+  background-color: #adff98;
+  /* text-align: center; */
+  padding: 20px;
+  /* position: absolute;
+    margin-right: ; */
+}
